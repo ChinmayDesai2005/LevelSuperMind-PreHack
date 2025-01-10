@@ -1,0 +1,10 @@
+.panel-wrapper {
+  padding: 1rem;
+  width: 100vw;
+  max-width: 1000px;
+}
+
+.panel-container {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(2px);
+}
